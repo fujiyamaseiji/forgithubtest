@@ -7,4 +7,6 @@ test = 'yes';
 
 var test = 'test';
 
+// koko
+
 console.log(test);
